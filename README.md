@@ -10,13 +10,13 @@ This project analyzes anime ratings and membership trends using Python. It explo
 
 ## **Technologies Used**
 - Python (with libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib)
-- Jupyter Notebook (for analysis and visualizations)
-
+- Visual Studio Code (for coding and running the script)
+  
 ## **How to Run the Project**
 1. **Clone the repository**:
    git clone https://github.com/ThomasNguyen1114/Data-Analysis-of-Anime-Ratings
 2. Install required libraries:
    pip install pandas numpy scipy seaborn matplotlib
 3. Run the analysis script:
-   Navigate to the project directory and run the Python script.
+   Open the project folder in Visual Studio Code and run the Python script:
    python Project.py
