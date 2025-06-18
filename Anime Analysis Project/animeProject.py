@@ -33,7 +33,7 @@ print("Correlation Coefficient: ", round(animeDataCorr[0], 2))
 print("P-Value: \t\t ", round(animeDataCorr[1], 2), "\n")
 
 #4
-#Correlation Coefficient = .31 - this tells us that there is a positive correlation between rating and members - the higher the rating, then higher the amount of members there are - Moderate Positive Correlation.
+#Correlation Coefficient = .31 - this tells us that there is a positive linear relationship between rating and members - the higher the rating, then higher the amount of members there are - Moderate Positive Correlation.
 #P-Value = 0 - this tells us there is a significant relationship between rating and members - We reject the null hypothesis and accept the alternative hypothesis.
 
 #5
