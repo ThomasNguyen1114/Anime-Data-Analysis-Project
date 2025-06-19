@@ -4,6 +4,9 @@ import scipy.stats as sp
 import statsmodels.stats.multicomp as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 #1
 animeData = pd.read_csv('anime.csv')
